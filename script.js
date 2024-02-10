@@ -1,4 +1,4 @@
-document.getElementById('current-year').textContent = new Date().getFullYear();
+
 
 document.getElementById('nav-toggle').addEventListener('click', function(){
     var navMenu = document.getElementById('nav-menu');
